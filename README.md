@@ -1,62 +1,55 @@
-# Project Title
+### A basic template to get started with HTML, CSS, and JavaScript
 
-Simple overview of use/purpose.
+This project is a fork of the [HTML5 Boilerplate](http://html5boilerplate.com).  
+It has been simplified for those starting out with web development and programming.
 
-## Description
+An [**example site**](http://pfnp.adrianbautista.com) built with this template.
 
-An in-depth paragraph about your project and overview of use.
+## Quick start
 
-## Getting Started
+### How to download this template:
 
-### Dependencies
+1. **Easy Way** - Download the `.zip` file
+   * You can use the "Download ZIP" button in the right sidebar or click [this link](https://github.com/adrianbautista/html-css-template/archive/pfnp.zip).
+   * Unzip the template by double clicking on the downloaded `html-css-template-pfnp.zip` file.
+2. **Programmer Way** - Clone the Git Repo
+   * If you have git on your computer and a github account, you can clone this project from the command line
+     ```
+     git clone https://github.com/adrianbautista/html-css-template.git
+     ```
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+### How to use this template:
 
-### Installing
+1. Opening the template
+     * If you downloaded the zip file, open the unzipped **folder** `html-css-template-pfnp` in a text editor  
+     (e.g. [Sublime Text 2](http://www.sublimetext.com/2)).
+     * If you cloned the project using git, open the **folder** `html-css-template` in a text editor  
+     (e.g. [Sublime Text 2](http://www.sublimetext.com/2)).
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+2. Using the template  
+  
+   #### HTML
+     * Start with `index.html`, this will be your root page (the main page)  
+       Questions about its content? Refer to `template.html`  
+     * To make new HTML pages, duplicate `template.html` inside the folder and rename it to the URL path you want.  
+       ```
+       about.html => my_website.com/about
+       ```  
+       *It's recommended that you delete the explanation comments in any new HTML pages*
 
-### Executing program
+   #### CSS
+     * Start with `main.css` inside the `css` folder
+     * What are `normalize.css` and `html5-boilerplate.css` for?  
+       They make basic styles consistent across all kinds of web browsers
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+   #### JavaScript
+     * Start with `main.js` inside the `js` folder
+     * What's jQuery? It's a JavaScript library that allows you to manipulate your website much more easily with JavaScript
+     * If you download any jQuery plugins, paste a minified version of them into `plugins.js`
 
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
-## Authors
-
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+   #### Images
+     * If you want to host your own images, put the image file (.jpg, .png, .gif) inside the images directory.  
+       Then the source on an **img tag** will be  
+       ```
+       <img src="/images/your_picture.jpg">
+       ```
