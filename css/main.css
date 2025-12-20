@@ -51,11 +51,24 @@
 .clearfix {
     *zoom: 1;
 }
-a.button {
+/*a.button {
     padding: 1px 6px;
     border: 1px outset buttonborder;
     border-radius: 3px;
     color: buttontext;
     background-color: buttonface;
     text-decoration: none;
+}*/
+a.button {
+  background-color: #4CAF50; /* Green background */
+  color: white;              /* White text */
+  border: none;              /* Remove default border */
+  padding: 15px 32px;        /* Add space around text */
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;           /* Change mouse cursor to a hand */
+  border-radius: 8px;        /* Rounded corners */
 }
