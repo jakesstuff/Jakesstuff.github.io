@@ -14,7 +14,7 @@
 }
 .body {
     margin: 30px; /* Applies 20px margin to all sides */
-    border: 2px outset black; /* Just to visualize the element's edge */
+    border: 4px outset black; /* Just to visualize the element's edge */
     padding: 10px; /* Space inside the border */
     background-color: skyblue;
 }
