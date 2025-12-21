@@ -59,7 +59,7 @@ element {
 
 a.button {
   background-color: #228B22; /* green background */
-  color: tan;              /* color text */
+  color: slategray;              /* color text */
   border: none;              /* Remove default border */
   padding: 15px 32px;        /* Add space around text */
   text-align: center;
