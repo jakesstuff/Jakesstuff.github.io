@@ -58,8 +58,8 @@ element {
 }
 
 a.button {
-  background-color: #228B22; /* green background */
-  color: slategray;              /* color text */
+  background-color: #6A5ACD; /* green background */
+  color: mediumaquamarine;              /* color text */
   border: none;              /* Remove default border */
   padding: 15px 32px;        /* Add space around text */
   text-align: center;
@@ -75,7 +75,7 @@ a.button2 {
   background-color: #6A5ACD; /* blue background */
   color: mediumaquamarine;              /* color text */
   border: none;              /* Remove default border */
-  padding: 10px 22px;        /* Add space around text */
+  padding: 9px 20px;        /* Add space around text */
   text-align: center;
   text-decoration: none;
   display: inline-block;
