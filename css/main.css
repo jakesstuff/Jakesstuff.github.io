@@ -1,11 +1,10 @@
 /* ==========================================================================
    Your custom CSS styles
    ========================================================================== */
-element {
-  margin-top: 5%;
-  margin-right: 10%;
-  margin-bottom: 5%;
-  margin-left: 10%;
+.box {
+    margin: 20px; /* Applies 20px margin to all sides */
+    border: 1px solid black; /* Just to visualize the element's edge */
+    padding: 10px; /* Space inside the border */
 }
 
 
