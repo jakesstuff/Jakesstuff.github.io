@@ -3,7 +3,7 @@
    ========================================================================== */
 .top {
     margin: 20px; /* Applies 20px margin to all sides */
-    border: 5px solid black; /* Just to visualize the element's edge */
+    border: 4px outset black; /* Just to visualize the element's edge */
     padding: 10px; /* Space inside the border */
     background-color: skyblue;
 }
