@@ -19,10 +19,12 @@
     background-color: skyblue;
 }
 .image {
-    border: 0px solid black; /* Just to visualize the element's edge */
-    padding: 10px; /* Space inside the border */
-    margin: 20px; /* Applies 20px margin to all sides */
-    justify-content: space-between;
+  display: flex;
+  justify-content: space-between;
+  /* Optional: Vertically centers items if they have different heights */
+  align-items: center; 
+  /* Optional: Adds space inside the container edges */
+  padding: 0 10px;
 }
 
 
