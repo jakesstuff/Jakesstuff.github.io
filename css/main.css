@@ -75,11 +75,11 @@ a.button2 {
   background-color: #6A5ACD; /* blue background */
   color: mediumaquamarine;              /* color text */
   border: none;              /* Remove default border */
-  padding: 15px 32px;        /* Add space around text */
+  padding: 10px 22px;        /* Add space around text */
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
+  font-size: 14px;
   margin: 4px 2px;
   cursor: pointer;           /* Change mouse cursor to a hand */
   border-radius: 8px;        /* Rounded corners */
