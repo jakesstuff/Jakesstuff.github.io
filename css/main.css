@@ -85,7 +85,7 @@ a.button2 {
   background-color: #6A5ACD; /* blue background */
   color: mediumaquamarine;              /* color text */
   border: none;              /* Remove default border */
-  padding: 9px 20px;        /* Add space around text */
+  padding: 8px 18px;        /* Add space around text */
   text-align: center;
   text-decoration: none;
   display: inline-block;
