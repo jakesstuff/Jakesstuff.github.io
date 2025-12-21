@@ -1,12 +1,17 @@
 /* ==========================================================================
    Your custom CSS styles
    ========================================================================== */
-.box {
+.all {
     margin: 20px; /* Applies 20px margin to all sides */
-    border: 1px solid black; /* Just to visualize the element's edge */
+    border: 0px solid black; /* Just to visualize the element's edge */
     padding: 10px; /* Space inside the border */
 }
-
+.body {
+    margin: 30px; /* Applies 20px margin to all sides */
+    border: 2px outset black; /* Just to visualize the element's edge */
+    padding: 10px; /* Space inside the border */
+    background-color: skyblue;
+}
 
 
 
