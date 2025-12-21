@@ -9,7 +9,7 @@
 }
 .all {
     margin: 20px; /* Applies 20px margin to all sides */
-    border: 0px solid black; /* Just to visualize the element's edge */
+    border: 0px outset black; /* Just to visualize the element's edge */
     padding: 10px; /* Space inside the border */
 }
 .body {
@@ -25,6 +25,11 @@
   align-items: center; 
   /* Optional: Adds space inside the container edges */
   padding: 0 10px;
+}
+.youtube {
+    margin: 0px; /* Applies 20px margin to all sides */
+    border: 0px outset firebrick; /* Just to visualize the element's edge */
+    padding: 10px; /* Space inside the border */
 }
 
 
