@@ -136,10 +136,10 @@ a.minecraft {
   font-weight: bold;
 }
 a.outside {
-  background-color: #FFD700; /* gold background */
+  background-color: #DAA520; /* gold background */
   color: darkslateblue;              /* color text */
   border: none;              /* Remove default border */
-  padding: 15px 32px;        /* Add space around text */
+  padding: 8px 18px;        /* Add space around text */
   text-align: center;
   text-decoration: none;
   display: inline-block;
