@@ -20,6 +20,7 @@
 }
 .image {
   background-color: #97e99f;
+  border: 2px outset black; /* Just to visualize the element's edge */
   background-size: cover;
   display: flex;
   justify-content: space-between;
