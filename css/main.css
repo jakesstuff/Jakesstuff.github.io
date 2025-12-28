@@ -84,7 +84,7 @@
 
 a.button {
   background-color: #6A5ACD; /* blue background */
-  color: mediumaquamarine;              /* color text */
+  color: ivory;              /* color text */
   border: none;              /* Remove default border */
   padding: 15px 32px;        /* Add space around text */
   text-align: center;
@@ -98,7 +98,7 @@ a.button {
 }
 a.button2 {
   background-color: #6A5ACD; /* blue background */
-  color: mediumaquamarine;              /* color text */
+  color: ivory;              /* color text */
   border: none;              /* Remove default border */
   padding: 8px 18px;        /* Add space around text */
   text-align: center;
