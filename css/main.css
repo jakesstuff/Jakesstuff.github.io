@@ -84,7 +84,7 @@
 
 a.button {
   background-color: #6A5ACD; /* blue background */
-  color: lightyellow;              /* color text */
+  color: floralwhite;              /* color text */
   border: none;              /* Remove default border */
   padding: 15px 32px;        /* Add space around text */
   text-align: center;
@@ -98,7 +98,7 @@ a.button {
 }
 a.button2 {
   background-color: #6A5ACD; /* blue background */
-  color: lightyellow;              /* color text */
+  color: floralwhite;              /* color text */
   border: none;              /* Remove default border */
   padding: 8px 18px;        /* Add space around text */
   text-align: center;
@@ -112,7 +112,7 @@ a.button2 {
 }
 a.youtube {
   background-color: #B22222; /* red background */
-  color: lightyellow;              /* color text */
+  color: floralwhite;              /* color text */
   border: none;              /* Remove default border */
   padding: 15px 32px;        /* Add space around text */
   text-align: center;
@@ -126,7 +126,7 @@ a.youtube {
 }
 a.outside {
   background-color: #B22222; /* gold background */
-  color: lightyellow;              /* color text */
+  color: floralwhite;              /* color text */
   border: none;              /* Remove default border */
   padding: 8px 18px;        /* Add space around text */
   text-align: center;
