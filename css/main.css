@@ -19,7 +19,7 @@
     background-color: skyblue;
 }
 .image {
-  background-image: url("images/backgroundheader.png");
+  background-color: #97e99f;
   background-size: cover;
   display: flex;
   justify-content: space-between;
