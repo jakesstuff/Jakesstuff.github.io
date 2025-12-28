@@ -19,7 +19,7 @@
     background-color: skyblue;
 }
 .image {
-  background-image: url('images/backgroundheader.png');
+  background-image: url("images/backgroundheader.png");
   display: flex;
   justify-content: space-between;
   /* Optional: Vertically centers items if they have different heights */
