@@ -20,6 +20,7 @@
 }
 .image {
   background-image: url("images/backgroundheader.png");
+  background-size: 100% 100%;
   display: flex;
   justify-content: space-between;
   /* Optional: Vertically centers items if they have different heights */
