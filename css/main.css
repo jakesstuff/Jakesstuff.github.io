@@ -19,15 +19,15 @@
     background-color: skyblue;
 }
 .image {
-  background-color: #97e99f;
-  border: 4px outset black; /* Just to visualize the element's edge */
-  background-size: cover;
-  display: flex;
-  justify-content: space-between;
-  /* Optional: Vertically centers items if they have different heights */
-  align-items: center; 
-  /* Optional: Adds space inside the container edges */
-  padding: 0 10px;
+    background-color: #97e99f;
+    border: 4px outset black; /* Just to visualize the element's edge */
+    background-size: cover;
+    display: flex;
+    justify-content: space-between;
+    /* Optional: Vertically centers items if they have different heights */
+    align-items: center; 
+    /* Optional: Adds space inside the container edges */
+    padding: 0 10px;
 }
 .outside {
     margin: 0px; /* Applies 20px margin to all sides */
