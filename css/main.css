@@ -34,16 +34,6 @@
     border: 2px outset dodgerblue; /* Just to visualize the element's edge */
     padding: 10px; /* Space inside the border */
 }
-.centerhorizontal {
-  display: flex;
-  justify-content: center; /* Centers horizontally */
-  /*align-items: center;     /* Centers vertically */
-  max-width: 40%;
-  height: auto;
-  width: auto\9; /* ie8 */
-  min-width: 0;
-  min-height: 0;
-}
 
 
 
