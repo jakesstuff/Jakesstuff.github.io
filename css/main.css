@@ -35,11 +35,14 @@
     padding: 10px; /* Space inside the border */
 }
 .centerhorizontal {
+  display: flex;
   justify-content: center; /* Centers horizontally */
   /*align-items: center;     /* Centers vertically */
   max-width: 100%;
   height: auto;
   width: auto\9; /* ie8 */
+  min-width: 0;
+  min-height: 0;
 }
 
 
