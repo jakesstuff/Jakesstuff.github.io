@@ -37,7 +37,7 @@
 .centerhorizontal {
   justify-content: center; /* Centers horizontally */
   /*align-items: center;     /* Centers vertically */
-  max-width: 100%;
+  max-width: 20%;
   height: auto;
   width: auto\9; /* ie8 */
 }
