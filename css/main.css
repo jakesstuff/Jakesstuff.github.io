@@ -39,6 +39,8 @@
   justify-content: center; /* Centers horizontally */
   /*align-items: center;     /* Centers vertically */
   /*height: 100vh;           /* Example: Centers in the full viewport height */
+  max-width: 100%; /* Ensures the image doesn't exceed the width of its container/screen */
+  height: auto;    /* Automatically adjusts the height to maintain the aspect ratio */
 }
 
 
