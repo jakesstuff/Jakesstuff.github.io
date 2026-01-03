@@ -38,7 +38,7 @@
   display: flex;
   justify-content: center; /* Centers horizontally */
   /*align-items: center;     /* Centers vertically */
-  max-width: 100%;
+  max-width: 40%;
   height: auto;
   width: auto\9; /* ie8 */
   min-width: 0;
