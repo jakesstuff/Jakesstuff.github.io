@@ -35,11 +35,9 @@
     padding: 10px; /* Space inside the border */
 }
 .headlines {
-    display: flex;
     margin: 0px; /* Applies 20px margin to all sides */
     border: 4px outset slateblue; /* Just to visualize the element's edge */
     padding: 10px; /* Space inside the border */
-    align-items: center; 
 }
 
 
