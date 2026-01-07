@@ -34,6 +34,11 @@
     border: 2px outset dodgerblue; /* Just to visualize the element's edge */
     padding: 10px; /* Space inside the border */
 }
+.headlines {
+    margin: 0px; /* Applies 20px margin to all sides */
+    border: 4px outset black; /* Just to visualize the element's edge */
+    padding: 10px; /* Space inside the border */
+}
 
 
 
